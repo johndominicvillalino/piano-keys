@@ -9,7 +9,7 @@
 ## Description 
 
 
-This script is a project from codecademy. The goal of this project is to create a piano using DOM events.
+This is a project from codecademy. The goal of this project is to create a piano using DOM events.
 
 <br>
 
